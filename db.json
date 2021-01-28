@@ -1,18 +1,19 @@
 {
-    "bg": "https://besthqwallpapers.com/img/original/39426/question-sign-4k-3d-art-creative-concept.jpg",
+    "bg": "https://awesomewallpapers.files.wordpress.com/2009/08/windows_dotnet_aurora_1920.jpg",
     "title": "Quiz Dotnet",
     "description": "Teste os seus conhecimentos sobre Dotnet",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif",
+        
+        "title": "O que fazer ao terminar de corrigir um bug?",
+        "description": "Apenas um teste... ;)",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Subir em produção",
+          "Tomar café",
+          "Testar em homologação",
+          "Teste unitário"
         ]
       },
       {
