@@ -1,5 +1,6 @@
 {
     "bg": "https://awesomewallpapers.files.wordpress.com/2009/08/windows_dotnet_aurora_1920.jpg",
+    "loading": "https://media1.tenor.com/images/3f8b9aec89d8fc5395f3ad3d82f0d697/tenor.gif",
     "title": "Quiz Dotnet",
     "description": "Teste os seus conhecimentos sobre Dotnet",
     "questions": [
@@ -10,20 +11,22 @@
         "description": "Apenas um teste... ;)",
         "answer": 2,
         "alternatives": [
-          "Subir em produção",
           "Tomar café",
-          "Testar em homologação",
-          "Teste unitário"
+          "Teste unitário",
+          "Enviar para produção",          
+          "Testar em homologação"          
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif",
+        "title": "Pergunta interessante sobre .NET",
+        "description": "... novamente.",
         "answer": 0,
         "alternatives": [
-          "background: linear-gradient(#e66465, #9198e5);",
-          "background: gradient(#e66465, #9198e5);"
+          "Resposta 01",
+          "Resposta 02",
+          "Resposta 03",
+          "Resposta 04"
         ]
       }
     ],
