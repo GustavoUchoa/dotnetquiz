@@ -9,7 +9,7 @@
         
         "title": "O que fazer ao terminar de corrigir um bug?",
         "description": "Apenas um teste... ;)",
-        "answer": 2,
+        "answer": 1,
         "alternatives": [
           "Tomar café",
           "Teste unitário",
