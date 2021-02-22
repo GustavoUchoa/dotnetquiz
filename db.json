@@ -1,6 +1,7 @@
 {
     "bg": "https://awesomewallpapers.files.wordpress.com/2009/08/windows_dotnet_aurora_1920.jpg",
     "loading": "https://media1.tenor.com/images/3f8b9aec89d8fc5395f3ad3d82f0d697/tenor.gif",
+    "finished": "https://media.giphy.com/media/l1Lc1Kn9hImgpx5Re/giphy.gif",
     "title": "Quiz Dotnet",
     "description": "Teste os seus conhecimentos sobre Dotnet",
     "questions": [
@@ -31,7 +32,14 @@
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz.alnun.vercel.app",
+      "https://aluraquiz-copadomundo.antonionarcilio.vercel.app",
+      "https://css-quiz.higorpo.vercel.app",
+      "https://imersao-alura-v2.jvitormf.vercel.app",
+      "https://democra-quiz.lfrigodesouza.vercel.app/",
+      "https://dragon-ball-quiz.pablotdv.vercel.app",
+      "https://scrumquiz.robsonamendonca.vercel.app",
+      "https://fortnitequiz.vercel.app"
     ],
     "theme": {
       "colors": {
